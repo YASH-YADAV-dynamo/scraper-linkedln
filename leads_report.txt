@@ -1,0 +1,162 @@
+LinkedIn Leads Report
+Generated on: 2025-05-03 18:41:45
+
+Total Leads: 20
+People: 10
+Companies: 10
+
+=== People Leads ===
+
+Name: James Miller
+Headline: Marketing Manager at Amazon
+Company: Amazon
+Location: New York
+Profile URL: https://www.linkedin.com/in/james-miller-27279/
+Tags: decision_maker, marketing_professional
+
+Name: Susan Williams
+Headline: Marketing Manager at Adobe
+Company: Adobe
+Location: New York
+Profile URL: https://www.linkedin.com/in/susan-williams-95664/
+Tags: decision_maker, marketing_professional
+
+Name: James Anderson
+Headline: Marketing Manager at Amazon
+Company: Amazon
+Location: New York
+Profile URL: https://www.linkedin.com/in/james-anderson-59859/
+Tags: decision_maker, marketing_professional
+
+Name: Susan Jones
+Headline: Marketing Manager at Facebook
+Company: Facebook
+Location: New York
+Profile URL: https://www.linkedin.com/in/susan-jones-98665/
+Tags: decision_maker, marketing_professional
+
+Name: Charles Smith
+Headline: Marketing Manager at HP
+Company: HP
+Location: New York
+Profile URL: https://www.linkedin.com/in/charles-smith-21843/
+Tags: decision_maker, marketing_professional
+
+Name: James White
+Headline: Marketing Manager at Cisco
+Company: Cisco
+Location: New York
+Profile URL: https://www.linkedin.com/in/james-white-49870/
+Tags: decision_maker, marketing_professional
+
+Name: Joseph Wilson
+Headline: Marketing Manager at Oracle
+Company: Oracle
+Location: New York
+Profile URL: https://www.linkedin.com/in/joseph-wilson-14722/
+Tags: decision_maker, marketing_professional
+
+Name: David Martinez
+Headline: Marketing Manager at Intel
+Company: Intel
+Location: New York
+Profile URL: https://www.linkedin.com/in/david-martinez-24718/
+Tags: decision_maker, marketing_professional
+
+Name: Thomas Anderson
+Headline: Marketing Manager at Oracle
+Company: Oracle
+Location: New York
+Profile URL: https://www.linkedin.com/in/thomas-anderson-27418/
+Tags: decision_maker, marketing_professional
+
+Name: Mary Wilson
+Headline: Marketing Manager at Facebook
+Company: Facebook
+Location: New York
+Profile URL: https://www.linkedin.com/in/mary-wilson-90967/
+Tags: decision_maker, marketing_professional
+
+=== Company Leads ===
+
+Name: NY
+Industry: Software
+Size: 5001-10000
+Location: Tokyo, Japan
+Website: https://www.ny-69175.com
+LinkedIn URL: https://www.linkedin.com/company/ny-69175/
+Category: tech
+
+Name: KH
+Industry: Software
+Size: 501-1000
+Location: Toronto, Canada
+Website: https://www.kh-86809.com
+LinkedIn URL: https://www.linkedin.com/company/kh-86809/
+Category: tech
+
+Name: TechAssociates
+Industry: Software
+Size: 10001+
+Location: Sydney, Australia
+Website: https://www.techassociates-49102.com
+LinkedIn URL: https://www.linkedin.com/company/techassociates-49102/
+Category: tech
+
+Name: TXU
+Industry: Software
+Size: 11-50
+Location: Berlin, Germany
+Website: https://www.txu-37185.com
+LinkedIn URL: https://www.linkedin.com/company/txu-37185/
+Category: tech
+
+Name: DigitalSolutions
+Industry: Software
+Size: 11-50
+Location: San Francisco, CA
+Website: https://www.digitalsolutions-23753.com
+LinkedIn URL: https://www.linkedin.com/company/digitalsolutions-23753/
+Category: tech
+
+Name: StrategicLabs
+Industry: Software
+Size: 501-1000
+Location: Berlin, Germany
+Website: https://www.strategiclabs-32438.com
+LinkedIn URL: https://www.linkedin.com/company/strategiclabs-32438/
+Category: tech
+
+Name: MVBI
+Industry: Software
+Size: 201-500
+Location: Singapore
+Website: https://www.mvbi-58357.com
+LinkedIn URL: https://www.linkedin.com/company/mvbi-58357/
+Category: tech
+
+Name: NextEnterprises
+Industry: Software
+Size: 5001-10000
+Location: London, UK
+Website: https://www.nextenterprises-62197.com
+LinkedIn URL: https://www.linkedin.com/company/nextenterprises-62197/
+Category: tech
+
+Name: DIHM
+Industry: Software
+Size: 201-500
+Location: Sydney, Australia
+Website: https://www.dihm-32624.com
+LinkedIn URL: https://www.linkedin.com/company/dihm-32624/
+Category: tech
+
+Name: FutureSystems
+Industry: Software
+Size: 201-500
+Location: Berlin, Germany
+Website: https://www.futuresystems-17144.com
+LinkedIn URL: https://www.linkedin.com/company/futuresystems-17144/
+Category: tech
+
+=== End of Report ===

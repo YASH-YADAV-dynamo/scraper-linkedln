@@ -1,0 +1,252 @@
+[
+  {
+    "id": "james-miller-27279",
+    "name": "James Miller",
+    "headline": "Marketing Manager at Amazon",
+    "location": "New York",
+    "industry": "Information Technology",
+    "profile_url": "https://www.linkedin.com/in/james-miller-27279/",
+    "current_company": "Amazon",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "susan-williams-95664",
+    "name": "Susan Williams",
+    "headline": "Marketing Manager at Adobe",
+    "location": "New York",
+    "industry": "Financial Services",
+    "profile_url": "https://www.linkedin.com/in/susan-williams-95664/",
+    "current_company": "Adobe",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "james-anderson-59859",
+    "name": "James Anderson",
+    "headline": "Marketing Manager at Amazon",
+    "location": "New York",
+    "industry": "Technology",
+    "profile_url": "https://www.linkedin.com/in/james-anderson-59859/",
+    "current_company": "Amazon",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "susan-jones-98665",
+    "name": "Susan Jones",
+    "headline": "Marketing Manager at Facebook",
+    "location": "New York",
+    "industry": "Education",
+    "profile_url": "https://www.linkedin.com/in/susan-jones-98665/",
+    "current_company": "Facebook",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "charles-smith-21843",
+    "name": "Charles Smith",
+    "headline": "Marketing Manager at HP",
+    "location": "New York",
+    "industry": "Healthcare",
+    "profile_url": "https://www.linkedin.com/in/charles-smith-21843/",
+    "current_company": "HP",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "james-white-49870",
+    "name": "James White",
+    "headline": "Marketing Manager at Cisco",
+    "location": "New York",
+    "industry": "Advertising",
+    "profile_url": "https://www.linkedin.com/in/james-white-49870/",
+    "current_company": "Cisco",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "joseph-wilson-14722",
+    "name": "Joseph Wilson",
+    "headline": "Marketing Manager at Oracle",
+    "location": "New York",
+    "industry": "Healthcare",
+    "profile_url": "https://www.linkedin.com/in/joseph-wilson-14722/",
+    "current_company": "Oracle",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "david-martinez-24718",
+    "name": "David Martinez",
+    "headline": "Marketing Manager at Intel",
+    "location": "New York",
+    "industry": "Consulting",
+    "profile_url": "https://www.linkedin.com/in/david-martinez-24718/",
+    "current_company": "Intel",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "thomas-anderson-27418",
+    "name": "Thomas Anderson",
+    "headline": "Marketing Manager at Oracle",
+    "location": "New York",
+    "industry": "Education",
+    "profile_url": "https://www.linkedin.com/in/thomas-anderson-27418/",
+    "current_company": "Oracle",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "mary-wilson-90967",
+    "name": "Mary Wilson",
+    "headline": "Marketing Manager at Facebook",
+    "location": "New York",
+    "industry": "Healthcare",
+    "profile_url": "https://www.linkedin.com/in/mary-wilson-90967/",
+    "current_company": "Facebook",
+    "tags": [
+      "decision_maker",
+      "marketing_professional"
+    ]
+  },
+  {
+    "id": "ny-69175",
+    "name": "NY",
+    "industry": "Software",
+    "size": "5001-10000",
+    "location": "Tokyo, Japan",
+    "website": "https://www.ny-69175.com",
+    "company_url": "https://www.linkedin.com/company/ny-69175/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2008"
+  },
+  {
+    "id": "kh-86809",
+    "name": "KH",
+    "industry": "Software",
+    "size": "501-1000",
+    "location": "Toronto, Canada",
+    "website": "https://www.kh-86809.com",
+    "company_url": "https://www.linkedin.com/company/kh-86809/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2010"
+  },
+  {
+    "id": "techassociates-49102",
+    "name": "TechAssociates",
+    "industry": "Software",
+    "size": "10001+",
+    "location": "Sydney, Australia",
+    "website": "https://www.techassociates-49102.com",
+    "company_url": "https://www.linkedin.com/company/techassociates-49102/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "1993"
+  },
+  {
+    "id": "txu-37185",
+    "name": "TXU",
+    "industry": "Software",
+    "size": "11-50",
+    "location": "Berlin, Germany",
+    "website": "https://www.txu-37185.com",
+    "company_url": "https://www.linkedin.com/company/txu-37185/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2000"
+  },
+  {
+    "id": "digitalsolutions-23753",
+    "name": "DigitalSolutions",
+    "industry": "Software",
+    "size": "11-50",
+    "location": "San Francisco, CA",
+    "website": "https://www.digitalsolutions-23753.com",
+    "company_url": "https://www.linkedin.com/company/digitalsolutions-23753/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2019"
+  },
+  {
+    "id": "strategiclabs-32438",
+    "name": "StrategicLabs",
+    "industry": "Software",
+    "size": "501-1000",
+    "location": "Berlin, Germany",
+    "website": "https://www.strategiclabs-32438.com",
+    "company_url": "https://www.linkedin.com/company/strategiclabs-32438/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "1990"
+  },
+  {
+    "id": "mvbi-58357",
+    "name": "MVBI",
+    "industry": "Software",
+    "size": "201-500",
+    "location": "Singapore",
+    "website": "https://www.mvbi-58357.com",
+    "company_url": "https://www.linkedin.com/company/mvbi-58357/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2000"
+  },
+  {
+    "id": "nextenterprises-62197",
+    "name": "NextEnterprises",
+    "industry": "Software",
+    "size": "5001-10000",
+    "location": "London, UK",
+    "website": "https://www.nextenterprises-62197.com",
+    "company_url": "https://www.linkedin.com/company/nextenterprises-62197/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2009"
+  },
+  {
+    "id": "dihm-32624",
+    "name": "DIHM",
+    "industry": "Software",
+    "size": "201-500",
+    "location": "Sydney, Australia",
+    "website": "https://www.dihm-32624.com",
+    "company_url": "https://www.linkedin.com/company/dihm-32624/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "2006"
+  },
+  {
+    "id": "futuresystems-17144",
+    "name": "FutureSystems",
+    "industry": "Software",
+    "size": "201-500",
+    "location": "Berlin, Germany",
+    "website": "https://www.futuresystems-17144.com",
+    "company_url": "https://www.linkedin.com/company/futuresystems-17144/",
+    "category": "tech",
+    "description": "A leading provider of software solutions.",
+    "founded": "1991"
+  }
+]
